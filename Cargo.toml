@@ -1,0 +1,9 @@
+[package]
+name = "folder-scan"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+tree-sitter = "0.24"
+tree-sitter-rust = "0.23"
+walkdir = "2.5.1"
